@@ -1,6 +1,8 @@
 # last-hope-terminal
 
 #### File Structure
+
+```bash
 last-hope-terminal/
 ├── backend/                     # Backend folder
 │   ├── controllers/             # Logic for handling routes
@@ -44,3 +46,4 @@ last-hope-terminal/
 ├── .gitignore                   # Git ignored files
 ├── package.json                 # Backend dependencies
 └── README.md                    # Project documentation
+```
